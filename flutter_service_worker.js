@@ -50,7 +50,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c
 "assets/quizzSpass.github.io/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/quizzSpass.github.io/flutter.js": "6b515e434cea20006b3ef1726d2c8894",
 "assets/quizzSpass.github.io/index.html": "2304a5bce1d01ac10a92c5e37e58cb6c",
-"/": "8e3963577d821f07084d953c4fa83ee2",
+"/": "a7dfb49c4bd07802d51d4f56bf2bea9d",
 "assets/quizzSpass.github.io/main.dart.js": "ba50914846411b2df74fa146c139390b",
 "assets/quizzSpass.github.io/manifest.json": "826899ec2484848ea6f70db3bab9c5a9",
 "assets/quizzSpass.github.io/version.json": "67cccc9939c2e60fbf86e660208c591c",
@@ -68,8 +68,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "8e3963577d821f07084d953c4fa83ee2",
-"main.dart.js": "a069569780f843e179e6ad676acf7d85",
+"index.html": "a7dfb49c4bd07802d51d4f56bf2bea9d",
+"main.dart.js": "67772cd99cc2a94f18be9502575d8464",
 "manifest.json": "826899ec2484848ea6f70db3bab9c5a9",
 "version.json": "67cccc9939c2e60fbf86e660208c591c"};
 // The application shell files that are downloaded before a service worker can
